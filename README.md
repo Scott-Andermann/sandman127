@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Scott Andermann
+- 👀 I’m interested in machine learning, front end development, and dogs!
+- 🌱 I’m currently learning Javascript, CSS, and React
+- 📫 The best way to reach me is by email -- ScottAndermann@gmail.com
